@@ -1,1 +1,1 @@
-/*repositorio para resolusao de atividades de CC*/
+*repositorio para resolusao de atividades de CC*
